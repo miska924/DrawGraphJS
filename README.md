@@ -5,6 +5,4 @@ beautiful drawing graph, using physic's model
 
 ![](expand.gif)
 
-1. Download
-
-2. Open file index.html in your browser
+Try it on https://miska924.github.io
